@@ -1,0 +1,29 @@
+
+# PIGEONHOLE PRINCIPLE :
+
+The Pigeonhole Principle (`also known as the Dirichlet box principle, Dirichlet principle or box principle`) states that if n + 1 or more pigeons are placed in n holes, then one hole must contain two or more pigeons.
+
+.Pigeonhole Principle Illustration 
+[#img-sunset]
+[caption="Figure 1: "]
+image::img/pigeon.jpg[Sunset,300,200]
+
+[source,]
+----
+Simply, This principle states If more than _n_ objects are placed into _n_  boxes, then at least one box must contain more than one object.
+----
+
+This principle might appear to be too obvious to be useful; indeed, the power of the principle comes from cleverly choosing the `boxes` and `objects`. Even though the principle itself is quite simple, it is not always clear if it is useful and, if so, how. For instance, consider the following example:
+
+.Fruit Basket
+====
+A fruit basket contains 4 different pairs of fruits, 2 Banana, 2 apple, 2 orange and  2 strawberry. Suppose that I need to grap out the fruits without looking at fruits before taking them out. How many fruits must I grap out to make sure that I will get a two of a kind ?
+
+*Answer :*
+
+Based on the question, we can figure out the each of the fruit kind is a `boxes, pigeonhole` and each fruit drawn being is `object , pigeon`
+
+According to the question above we can assume that in case graping 1, 2, 3, or 4 fruit(s), it is possible that all may be distinct fruits. Given a selection of let us say 4 fruit, it is likly that one is banana, one is orange one is strawberry ,and one is apple. However, if 5 fruits are chosen, the pigeon principle ensures that two [underline]#must# be the same. Hence the minimum number of fruit to be graped out is **5**.
+
+====
+
