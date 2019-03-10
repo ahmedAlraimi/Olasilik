@@ -17,7 +17,7 @@ This principle might appear to be too obvious to be useful; indeed, the power of
 
 .Fruit Basket
 ====
-A fruit basket contains 4 different pairs of fruits, 2 Banana, 2 apple, 2 orange and  2 strawberry. Suppose that I need to grap out the fruits without looking at fruits before taking them out. How many fruits must I grap out to make sure that I will get a two of a kind ?
+A fruit basket contains 4 different pairs of fruits, 2 Banana, 2 apple, 2 orange and  2 strawberry (TOTAL = 8 fruits). Suppose that I need to grap out the fruits without looking at fruits before taking them out. How many fruits must I grap out to make sure that I will get a two of a kind ?
 
 *Answer :*
 
