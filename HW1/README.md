@@ -1,4 +1,6 @@
-﻿# PIGEONHOLE PRINCIPLE :
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qwe1lVIcaQgY2QXbbwYf2ob7bf7KfvFq?authuser=1#scrollTo=fDD5H3Ci9TgM]
+
+# PIGEONHOLE PRINCIPLE :
 
 The Pigeonhole Principle (`also known as the Dirichlet box principle, Dirichlet principle or box principle`) states that if n + 1 or more pigeons are placed in n holes, then one hole must contain two or more pigeons.
 
