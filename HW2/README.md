@@ -93,7 +93,7 @@ C(10,5) = (<sup>10</sup><sub>5</sub>) =
 
 > NOTE : Click on Pascal's Triangle !
 >
-[![Pascal's Triangle](https://www.mathsisfun.com/numbers/images/pascals-triangle-add.svg =160x160)](http://codinglab.huostravelblog.com/math/pascals-triangle-generator/index.php?size=17&alignment=Center&order=0&presentation=1)
+[![Pascal's Triangle](https://www.mathsisfun.com/numbers/images/pascals-triangle-add.svg)](http://codinglab.huostravelblog.com/math/pascals-triangle-generator/index.php?size=17&alignment=Center&order=0&presentation=1)
 
 
 #### -CODE:
