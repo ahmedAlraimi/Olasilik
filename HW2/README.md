@@ -7,7 +7,8 @@ Both terms concern about calculating all the possible ways of doing something. H
 The difference between Combination & Permutation is :
 
 <img src="https://github.com/ahmedAlraimi/Olasilik/raw/master/HW2/img/order.png" width="100" height="100" />
-###  "ORDER"	
+
+### "ORDER"	
 
  
 
