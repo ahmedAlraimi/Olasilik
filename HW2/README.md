@@ -19,7 +19,7 @@ The difference between Combination & Permutation is :
 
 ## Permutation Examples:-
 
-### Ex:1
+### Ex:1 
 
 ```   In how many ways can the letters in the word  ```   **HELLO** ```  be arranged where ``` **L**'s ``` are together ?```   
 
