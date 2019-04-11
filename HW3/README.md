@@ -45,16 +45,37 @@ Pr(H|E) = 0.216 / 0.168 + 0.22 = 0.216/0.604 = 0.358
 
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6?authuser=1#scrollTo=VCKLZAWm_Mos)
+[![Open In Colab](https://colab.research.google.com/drive/1AVv0fuqjqHepAA7aw-X9-eMVdTxRWNUd?authuser=1#scrollTo=uA0oqU2S8Afw&line=31&uniqifier=1)
 ``` python
-import math 
-# (H) (E) (LL) (O) : # of arrangement = 4!
-elements = 4
+#School A student:
 
-# 4! = 4 X 3 X 2 X 1 = 24
-Answer = math.factorial(elements) 
-print ("  Number of arrangement of letters = ",end="")
+PrHA = 60/250
+
+#School B student:
+
+PrHB = 90/250
+
+# School C student:
+
+PrHC = 100/250
+
+# School A Success :
+
+PrEA = 0.7
+
+# School B Success :
+
+PrEB = 0.6
+
+# School C Success :
+
+PrEC = 0.5
+
+
+Answer = (PrHB * PrEB) / (PrHB * PrEB + PrHA * PrEA + PrHC * PrEC) 
+print ("  the probability that the successfull student is from school B = ",end="")
 print (Answer)
+
 ``` 
 
 ___
