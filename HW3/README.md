@@ -45,7 +45,10 @@ Pr(H|E) = 0.216 / 0.168 + 0.22 = 0.216/0.604 = 0.358
 
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/drive/1AVv0fuqjqHepAA7aw-X9-eMVdTxRWNUd?authuser=1#scrollTo=uA0oqU2S8Afw&line=31&uniqifier=1)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AVv0fuqjqHepAA7aw-X9-eMVdTxRWNUd?authuser=1#scrollTo=uA0oqU2S8Afw&line=31&uniqifier=1)
+
+
 ``` python
 #School A student:
 
