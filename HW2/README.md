@@ -30,7 +30,7 @@ In order to solved this example we need to consider both **L**'s as a one member
 ``` H```   ``` E```  ``` LL```  ``` O``` .  So by doing that simply we can say that the number of arrangement = 4! = 4 X 3 X 2 X 1 = 24
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6?authuser=1#scrollTo=VCKLZAWm_Mos)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6#scrollTo=VCKLZAWm_Mos)
 ``` python
 import math 
 # (H) (E) (LL) (O) : # of arrangement = 4!
