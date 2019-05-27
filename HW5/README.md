@@ -136,7 +136,7 @@ Probability of winning at least one match = 0.973
 ### Ex:
 
 ```
-A company makes sports bikes. 90% pass final inspection (and 10% fail and need to be fixed). What is the expected ``` Mean ``` and ``` Variance ``` of the 4 next inspections?
+A company makes sports bikes. 90% pass final inspection (and 10% fail and need to be fixed). What is the expected ``` Variance ``` of the 4 next inspections?
 ```
 Variance: σ2 = n p (1-p)
 
