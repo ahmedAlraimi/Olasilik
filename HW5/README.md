@@ -42,7 +42,7 @@ p<sup>k</sup>(1-p)<sup>(n-k)</sup> = 0.7<sup>2</sup>(1 - 0.7)<sup>(3-2)</sup>
 p<sup>k</sup>(1-p)<sup>(n-k)</sup>  = 0.7 x 0.7 x 0.3 = 0.147
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T?authuser=1#scrollTo=7WCI3T5eu9Qg&line=3&uniqifier=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T#scrollTo=7WCI3T5eu9Qg&line=3&uniqifier=1)
 
 
 ``` python
@@ -83,7 +83,7 @@ A company makes sports bikes. 90% pass final inspection (and 10% fail and need t
 Variance: σ2 = n p (1-p)
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T?authuser=1#scrollTo=1Zdov-7f6Ygu&line=12&uniqifier=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T#scrollTo=1Zdov-7f6Ygu&line=12&uniqifier=1)
 
 
 ``` python
@@ -127,7 +127,7 @@ Probability of winning zero matches, P(X = 0) = n!/(k!(n-k)! ) * (0.7)<sup>0</su
 Probability of winning at least one match = 1 - 0.027 = 0.973
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T?authuser=1#scrollTo=4TFuA_7Q9LpV&line=23&uniqifier=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T#scrollTo=4TFuA_7Q9LpV&line=23&uniqifier=1)
 
 
 ``` python
