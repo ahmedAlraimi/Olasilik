@@ -63,7 +63,7 @@ SO, the TOTAL # of arrangement = 5! X 3! = 5 X 4 X 3 X 2 X 3 X 2 =   720
 
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6?authuser=1#scrollTo=IGVJtNCd_R-u)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6#scrollTo=IGVJtNCd_R-u)
 ``` python
 import math 
 # (W1 W2 W3) (M1) (M2) (M3) (M4)
@@ -97,7 +97,7 @@ C(10,5) = (<sup>10</sup><sub>5</sub>) =
 
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6?authuser=1#scrollTo=uHcZrew7_c9D)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v1vt9ZJAcLw-IzzyfHTy2RH3vQfQG7m6#scrollTo=uHcZrew7_c9D)
 ```python
 import math 
 # 10 numbers (0-9) CHOOSE 5 digits	
