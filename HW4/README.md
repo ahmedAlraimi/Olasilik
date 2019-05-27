@@ -57,7 +57,7 @@ Px(3) = 1/8
 
 
 #### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_5ClkaNf2q2m29TcEI1deBcVMOWQ1XEI?authuser=1#scrollTo=7WCI3T5eu9Qg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_5ClkaNf2q2m29TcEI1deBcVMOWQ1XEI#scrollTo=7WCI3T5eu9Qg)
 
 
 ``` python
