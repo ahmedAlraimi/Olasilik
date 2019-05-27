@@ -76,39 +76,7 @@ The probabilities for - two chickens- all work out to be= 0.147
 
 ``` 
 
-# Variance:
 
-### Ex:
-
-```
-A company makes sports bikes. 90% pass final inspection (and 10% fail and need to be fixed). What is the expected ``` Mean ``` and ``` Variance ``` of the 4 next inspections?
-```
-Variance: σ2 = n p (1-p)
-
-#### -CODE:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T#scrollTo=1Zdov-7f6Ygu&line=12&uniqifier=1)
-
-
-``` python
-
-# p = P(pass)
-p = 0.9
-
-n = 4
-
-
-Answer =  n * p * (1-p)
-
-print (" For the sports bikes, Variance = ",end="")
-print (round(Answer, 2))
-
-``` 
-
-#### Answer :
-``` 
- For the sports bikes, Variance = 0.36
-
-``` 
 
 # Binomial Distribution:
 
@@ -160,5 +128,39 @@ print (round(1- Zero_match, 3))
 ``` 
 Probability of winning zero matches = 0.027
 Probability of winning at least one match = 0.973
+
+``` 
+
+# Variance:
+
+### Ex:
+
+```
+A company makes sports bikes. 90% pass final inspection (and 10% fail and need to be fixed). What is the expected ``` Mean ``` and ``` Variance ``` of the 4 next inspections?
+```
+Variance: σ2 = n p (1-p)
+
+#### -CODE:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DJd2KOTW-KooQS-_8xDHL7RJ7DS0ub2T#scrollTo=1Zdov-7f6Ygu&line=12&uniqifier=1)
+
+
+``` python
+
+# p = P(pass)
+p = 0.9
+
+n = 4
+
+
+Answer =  n * p * (1-p)
+
+print (" For the sports bikes, Variance = ",end="")
+print (round(Answer, 2))
+
+``` 
+
+#### Answer :
+``` 
+ For the sports bikes, Variance = 0.36
 
 ``` 
