@@ -1,7 +1,10 @@
 
-# Binomial Distribution:
 
-A binomial distribution can be thought of as simply the probability of a SUCCESS or FAILURE outcome in an experiment or survey that is repeated multiple times. The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. 
+# Bernoulli Distribution:
+
+
+a discrete distribtuion having two possible outcomes labelled by ``` n = 0 ``` & ``` n = 1 ```=>success. ``` n = 1 'success'``` occurs with probability ``` p ``` and ``` n = 0 'failure '``` occurs with probability ``` q = 1 - p ``` , ``` 0 < p < 1 ``` . Bernoulli distribution is a special case of binomial distribution, specially when ``` n = 1 ``` the binomial distribution becomes Bernoulli distribution.
+
 
 ### Ex:
 
@@ -107,12 +110,9 @@ print (round(Answer, 2))
 
 ``` 
 
+# Binomial Distribution:
 
-
-# Bernoulli Distribution:
-
-
-a discrete distribtuion having two possible outcomes labelled by ``` n = 0 ``` & ``` n = 1 ```=>success. ``` n = 1 'success'``` occurs with probability ``` p ``` and ``` n = 0 'failure '``` occurs with probability ``` q = 1 - p ``` , ``` 0 < p < 1 ``` . Bernoulli distribution is a special case of binomial distribution, specially when ``` n = 1 ``` the binomial distribution becomes Bernoulli distribution.
+A binomial distribution can be thought of as simply the probability of a SUCCESS or FAILURE outcome in an experiment or survey that is repeated multiple times. The binomial is a type of distribution that has two possible outcomes (the prefix “bi” means two, or twice). For example, a coin toss has only two possible outcomes: heads or tails and taking a test could have two possible outcomes: pass or fail. 
 
 ### Ex:
 
